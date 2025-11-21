@@ -11,3 +11,7 @@ I am an aspiring developer passionate about  Front End Web Developer. I love lea
 <img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/834a0609-e4be-4d02-b35a-600c9aaa0cd9" />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<div>
+ <img  width="60" height="50" src="https://avatars.githubusercontent.com/u/228862715?v=4&size=64
+</div>
