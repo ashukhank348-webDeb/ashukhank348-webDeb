@@ -6,7 +6,7 @@ I am an aspiring developer passionate about  Front End Web Developer. I love lea
  My Tech Stack:
 
 <div>
- <img width="230" height="251" alt "image" align="right" margin-bottom="320"=src="https://github.com/user-attachments/assets/004c7b0c-ff0a-4651-8dab-51640651ab11" />
+ <img width="230" height="251" alt "image" align="right" margin-bottom="320" src="https://github.com/user-attachments/assets/004c7b0c-ff0a-4651-8dab-51640651ab11" />
 </div>
 
 <img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/e562951c-09e4-47e1-b11b-aa9d7617c071" />
